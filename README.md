@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><strong>📈 Market Tools Tracker</strong></td>
-    <td>Агрегатор данных с Binance, OKX и Bybit с фильтрацией и кешем</td>
+    <td>Агрегатор данных с Binance, OKX и Bybit с фильтрацией</td>
     <td><a href="https://github.com/buludkhan37/market-tools-tracker">🔗 Перейти</a></td>
   </tr>
 </table>
