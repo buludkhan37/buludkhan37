@@ -3,7 +3,20 @@
 
 ## 📌 **Pinned projects**:  
 - 🌦️ [**Weather Widget**](https://github.com/buludkhan37/weather-widget) — погодный виджет на Angular 18 c Signals и OpenWeather API  
-- 📈 [**Market Tools Tracker**](https://github.com/buludkhan37/Crypto-app) — агрегатор данных с бирж Binance, OKX, Bybit с сортировкой и переключением  
+- 📈 [**Market Tools Tracker**](https://github.com/buludkhan37/Crypto-app) — агрегатор данных с бирж Binance, OKX, Bybit с сортировкой и переключением
+
+<table>
+  <tr>
+    <td><strong>🌦️ Weather Widget</strong></td>
+    <td>Виджет прогноза погоды на Angular 18 с Signals и OpenWeather API</td>
+    <td><a href="https://github.com/buludkhan37/weather-widget">🔗 Перейти</a></td>
+  </tr>
+  <tr>
+    <td><strong>📈 Market Tools Tracker</strong></td>
+    <td>Агрегатор данных с Binance, OKX и Bybit с фильтрацией и кешем</td>
+    <td><a href="https://github.com/buludkhan37/market-tools-tracker">🔗 Перейти</a></td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 
