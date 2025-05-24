@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 
-[![TG](https://img.shields.io/badge/Telegramm-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mastterminddd)  
+[![Telegramm](https://img.shields.io/badge/TG-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mastterminddd)  
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/masttermindd)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mastermind_bk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulmamedoff2015@yandex.ru)
 
