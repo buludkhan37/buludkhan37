@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td><strong>🌦️ Weather Widget</strong></td>
+    <td><strong>🌦️ Weather Widget WEB | Desktop</strong></td>
     <td>Виджет прогноза погоды на Angular 18 с Signals и OpenWeather API</td>
     <td><a href="https://github.com/buludkhan37/weather-widget">🔗 Перейти</a></td>
   </tr>
