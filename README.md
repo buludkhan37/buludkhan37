@@ -1,9 +1,9 @@
 # 💫 About Me:
 👋 Привет! Я Булудхан Кюлмамедов — Frontend-разработчик с 2+ годами опыта в создании масштабируемых веб-приложений на Angular, RxJS и NgRx.<br>🔧 Разрабатывал SPA-платформы, виджеты и дашборды.<br>🎓 Магистр прикладной математики | Люблю чистый код и архитектуру.<br>🚀 Сейчас работаю над проектами на Angular 18-19: от погодных виджетов до крипто платформ.<br>📫 Связь: [Telegram — https://t.me/mastterminddd; Email — kulmamedoff2015@yandex.ru]
 
-## 📌 **Мои проекты**:  
-- 🌦️ [Weather Widget](#) — виджет прогноза погоды с использованием Signals и OpenWeather API 
-- 📈 [Market Tools Tracker](#) — агрегатор данных с бирж Binance, OKX, Bybit 
+## 📌 **Pinned projects**:  
+- 🌦️ [**Weather Widget**](https://github.com/buludkhan37/weather-widget) — погодный виджет на Angular 18 c Signals и OpenWeather API  
+- 📈 [**Market Tools Tracker**](https://github.com/buludkhan37/Crypto-app) — агрегатор данных с бирж Binance, OKX, Bybit с кешированием, сортировкой и переключением  
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mastermind_bk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulmamedoff2015@yandex.ru) 
