@@ -2,6 +2,7 @@
 👋 Привет! Я Булудхан Кюлмамедов — Frontend-разработчик с 2+ годами опыта в создании масштабируемых веб-приложений на Angular, RxJS и NgRx.<br>🔧 Разрабатывал SPA-платформы, виджеты и дашборды.<br>🎓 Магистр прикладной математики | Люблю чистый код и архитектуру.<br>🚀 Сейчас работаю над проектами на Angular 18-19: от погодных виджетов до крипто платформ.<br>📫 Связь: [Telegram — https://t.me/mastterminddd; Email — kulmamedoff2015@yandex.ru]
 
 ## 📌 **Pinned projects**:  
+
 <table>
   <tr>
     <td><strong>🌦️ Weather Widget</strong></td>
